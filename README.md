@@ -1,6 +1,8 @@
 # flutter_tdd_number_trivia
 
-A new Flutter project.
+This project is made to help those who want to follow TDD and focus on code quality in FLUTTER.
+The example that i am using here is the number trivia example :  http://numbersapi.com/#42
+
 
 ## How to run tests and see test coverage
 1. flutter test --coverage
