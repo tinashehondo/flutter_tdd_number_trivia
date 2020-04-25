@@ -6,5 +6,5 @@ The example that i am using here is the number trivia example :  http://numbersa
 
 ## How to run tests and see test coverage
 1. flutter test --coverage
-2. genhtml coverage/lcov.info -o coverage/html
+2. genhtml coverage/lcov.info -o coverage/html   (make sure you have Lcov installed eg in mac "brew install Lcov")
 3. Go to file system and open the index.html to view reports
